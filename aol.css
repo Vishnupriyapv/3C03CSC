@@ -1,0 +1,77 @@
+body{ 
+    width:60%;
+    margin:auto;
+    background-color:fbd8f2;
+}
+
+
+
+#contact{
+ text-align:right;
+}
+
+
+#logo{
+ float:left;
+ width:20%;
+}
+
+#mainmenu{
+background-color:#FFB6C1;
+margin-top:50px;
+color:yellow;
+font-weight:bold;
+margin-bottom:30px;
+}
+
+#subimage{
+width:100%;
+}
+
+
+
+
+
+
+#mainimage{
+width:100%;
+}
+
+
+#marqueestyle{
+ background-color:ffafe2;
+margin-top:30px;
+padding:15px;
+height:80px;
+margin-bottom:20px;
+}
+
+
+
+
+
+
+ 
+
+
+
+#meditation{
+width:40%;
+height:100px;
+float:left;
+}
+
+
+
+
+
+
+
+#meditationhead{
+text-align:right;
+background-color:#ffe5b4;
+color:blue;
+padding:10px;
+
+
+
